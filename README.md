@@ -2,4 +2,4 @@
 <hr>
 - 강의 : https://nomadcoders.co/react-for-beginners/lobby
 <hr>
-- React, react-router-dom 버전 충돌로 publishing 안됌😭
+- React, react-router-dom 버전 충돌(?)로 publishing 안됌😭
